@@ -1,9 +1,9 @@
 Django Bootstrap Email
 ================================================
 
-[![PyPi version](https://pypip.in/v/django-bootstrap-email/badge.png)](https://crate.io/packages/django-bootstrap-email/)
+[![PyPi version](https://img.shields.io/pypi/v/django-bootstrap-email.svg)](https://crate.io/packages/django-bootstrap-email/)
 
-[![PyPi downloads](https://pypip.in/d/django-bootstrap-email/badge.png)](https://crate.io/packages/django-bootstrap-email/)
+[![PyPi downloads](https://img.shields.io/pypi/dm/django-bootstrap-email.svg)](https://crate.io/packages/django-bootstrap-email/)
 
 Using Twitter Bootstrap v2.3.2 for emails
 
